@@ -10,7 +10,7 @@
 "dc_type_s": "Dataset",
 "dct_isPartOf_sm": "RLIS",
 "dct_provenance_s": "L&C",
-"dct_references_s": "{\"http://schema.org/url\":\"geo.lclark.edu/submit/items/show/9\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B-249YJc4OukbjRCSnpsQnBnNGs\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
+"dct_references_s": "{\"http://schema.org/url\":\"http://geo.lclark.edu/submit/items/show/9\",\"http://schema.org/downloadUrl\":\"http://drive.google.com/drive/folders/0B-249YJc4OukbjRCSnpsQnBnNGs\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/wms\"}",
 "dct_spatial_sm": ["5746545: Portland (city, village,...), Oregon, United States"],
 "dct_temporal_sm": ["2014"],
 "layer_geom_type_s": "Polygon",
