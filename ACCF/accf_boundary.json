@@ -3,7 +3,7 @@
 "dc_title_s": "Alder Creek Community Forest Boundary",
 "dc_description_s": "Boundary of Alder Creek Community Forest site, located in southern Douglas County, OR.",
 "dc_rights_s": "Public",
-"dct_provenance_s": "L&C",
+"dct_provenance_s": "Lewis & Clark",
 "dct_references_s": "{\"http://schema.org/url\":\"http://geo.lclark.edu/submit/items/show/4\",\"http://schema.org/downloadUrl\":\"https://drive.google.com/drive/folders/0B1g8AvMEbzEbc3ZDTUtiUVJ2VWM\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://52.11.226.237:8080/geoserver/ACCF/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://52.11.226.237:8080/geoserver/ACCF/wms\"}",
 "layer_id_s": "ACCF:accf_boundary",
 "layer_slug_s": "accf_boundary",
